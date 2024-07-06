@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>phantasyromsfile - download game roms</title>
+  
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<a href="img/Final_Fight_3_Capa.jpg" download>
+ <img src="img/Final_Fight_3_Capa.jpg" alt="finalfight3" width="320" height="300">
+</a> 
+<!-- partial -->
+  
+</body>
+</html>

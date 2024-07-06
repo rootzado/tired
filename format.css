@@ -1,0 +1,13 @@
+body {
+    background-image: url(img/lvtown.jpg);
+}
+
+.fei {
+    /* POSIÇÃO */
+  position: relative; /* define a posição como relativa para poder movê-la */
+  left: 245px; /* move a imagem 50 pixels para a direita */
+  top: -80px; /* move a imagem 20 pixels para baixo */
+    /* TAMANHO */
+  width: 50px; /* define a largura da imagem como 200 pixels */
+  height: 70px; /* define a altura da imagem como 150 pixels */
+}
